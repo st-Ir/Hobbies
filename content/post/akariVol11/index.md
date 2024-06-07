@@ -1,8 +1,9 @@
 ---
 title: "Akari volume 11 chapter 72"
 description: Fufu Ijou Koibito Miman
-date: 2024-06-07
-license: under MTa Licensed 
+image : 3.png
+date: 2024-06-07 00:54:00+0000
+license: private sharing
 comments: true
 tags : 
    - drama
@@ -25,24 +26,11 @@ Jirou adalah otaku yang mencintai teman saat kecilnya sakurazaka shiori, mereka 
 | **Majalah**        | Young Ace                      |
 | **Demografi**      | Seinen                         |
 | **Terbit**         | 02 Maret 2018 – sekarang       |
-| **Volume**         | 11[(Daftar volume)](#daftar-volume)              |
+| **Volume**         | 12 Volume |
 | status             | `ongoing` |
 
+<kbd>new</kbd>[chp 72](fufuijou.com)
 
-<kbd>[new chapt 72](fufuijou.com)</kbd>
-
-### Daftar Volume
-
-<a name="daftar-volume"></a>
-
-| No. | Tanggal Rilis     | ISBN                     |
-|-----|-------------------|--------------------------|
-| 1   | 26 Oktober 2018   | ISBN 978-4-04-107484-8 |
-| 2   | 26 Maret 2019     | ISBN 978-4-04-108019-1 |
-| 3   | 26 September 2019 | ISBN 978-4-04-108590-5 |
-| 4   | 03 April 2020     | ISBN 978-4-04-109101-2 |
-| 5   | 04 November 2020  | ISBN 978-4-04-110704-1 |
-| 6   | 04 Juni 2021      | ISBN 978-4-04-111364-6 |
-| 7   | 03 Desember 2021  | ISBN 978-4-04-112113-9 |
-| 8   | 02 Mei 2022       | ISBN 978-4-04-112483-3 |
-| 9   | 04 Oktober 2022   | ISBN 978-4-04-112962-5 |
+![1](1.png)
+![2](2.png)
+![3](3.png)
