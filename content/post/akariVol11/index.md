@@ -32,6 +32,6 @@ Jirou adalah otaku yang mencintai teman saat kecilnya sakurazaka shiori, mereka 
 
 <kbd>new</kbd> [chapter 72](fufuijou.com)
 
-![1](1.png)
+![ ](1.png)
 
-![2](2.png)
+![ ](2.png)
