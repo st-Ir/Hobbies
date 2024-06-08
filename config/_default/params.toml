@@ -19,7 +19,7 @@ subtitle = "deep dreamin."
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/me1.jpg"
+src = "img/me.jpg"
 
 [article]
 headingAnchor = false
