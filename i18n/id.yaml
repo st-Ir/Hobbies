@@ -70,4 +70,4 @@ footer:
         other: Dibangun dengan {{ .Generator }}
 
     designedBy:
-        other: Tema {{ .Theme }} dirancang oleh {{ .DesignedBy }}
+        other: Tema {{ .Theme }} dimodifikasi oleh {{ .DesignedBy }}
