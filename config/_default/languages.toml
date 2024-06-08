@@ -4,3 +4,14 @@ languageName = "English"
 languagedirection = "ltr"
 title = "Example Site"
 weight = 1
+
+[id]
+languageName = "anime"
+title = "Ir"
+weight = 2
+
+[ar]
+languageName = "عربي"
+languagedirection = "rtl"
+title = "موقع تجريبي"
+weight = 3
