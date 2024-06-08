@@ -3,12 +3,14 @@ title: "Akari volume 11 chapter 72"
 description: Fufu Ijou Koibito Miman
 image : 3.png
 date: 2024-06-07 00:54:00+0000
-license: private sharing
+license: ~ Ir
 comments: true
 tags : 
    - drama
    - romance
    - school 
+   - series
+   - manga
 categories :
    - FuuKoi
 ---
@@ -29,7 +31,8 @@ Jirou adalah otaku yang mencintai teman saat kecilnya sakurazaka shiori, mereka 
 | **Volume**         | 12 Volume |
 | status             | `ongoing` |
 
-<kbd>new</kbd> [chp 72](fufuijou.com)
+<kbd>new</kbd> [chapter 72](fufuijou.com)
 
 ![1](1.png)
+...
 ![2](2.png)
