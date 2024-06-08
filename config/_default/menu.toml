@@ -6,13 +6,12 @@
 #[main.params]
 #icon = "home"
 #newtab = true
-[menu]
-[[menu.main]]
+
+[[main]]
     name = "Testing page" 
     url = "/"
-    weight = 10
     identifier = "home"
-    [menu.main.params]
+    [main.params]
         icon = "home"
         newTab = true
 
