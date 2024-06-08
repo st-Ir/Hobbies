@@ -4,6 +4,10 @@ mainSections = ["post"]
 rssFullContent = true
 favicon = "/favicon.png"
 
+[author]
+name = "Jimmy Cai"
+homepage = "https://jimmycai.com"
+
 [footer]
 since = 2020
 customText = ""

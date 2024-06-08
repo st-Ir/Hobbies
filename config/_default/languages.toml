@@ -11,6 +11,7 @@ languagedirection = "ltr"
 title = "Ir"
 weight = 2
 
+
 [ar]
 languageName = "عربي"
 languagedirection = "rtl"

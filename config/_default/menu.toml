@@ -7,14 +7,6 @@
 #icon = "home"
 #newtab = true
 
-[[main]]
-    name = "Testing page" 
-    url = "/"
-    identifier = "home"
-    [main.params]
-        icon = "home"
-        newTab = true
-
 [[social]]
 identifier = "github"
 name = "GitHub"
