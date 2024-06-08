@@ -80,7 +80,7 @@ enabled = true
 provider = "disqus"
 
 [comments.disqusjs]
-shortname = "Hobbies"
+shortname = "hobbies-4"
 apiUrl = "https://disqus.skk.moe/disqus/"
 apiKey = "Trfy6MNGv8UTsYa8cyYlsvO9azyf15We2GwkGXnFfq6x568aoQn1iDy7OICAVeIT"
 admin = "byfe"
