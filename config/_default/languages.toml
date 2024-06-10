@@ -5,10 +5,10 @@ languagedirection = "ltr"
 title = "Ir"
 weight = 1
 
-[id]
+[study]
 languageName = "Indo"
 languagedirection = "ltr"
-title = "Ir"
+title = "st-Ir"
 weight = 2
 
 
