@@ -1,10 +1,10 @@
 ---
 title: "Testpeg"
 description: 
-slug: 
+slug: honka
 date: 2024-06-10T12:34:11Z
 hidden: false
 comments: true
-language 
+language: id
 ---
 ## hiohih
