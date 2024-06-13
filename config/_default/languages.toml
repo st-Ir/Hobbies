@@ -5,13 +5,11 @@ languagedirection = "ltr"
 title = "Ir"
 weight = 1
 
-[id]
+[study]
 languageName = "study"
 languagedirection = "ltr"
 title = "st-Ir"
 weight = 2
-url = "/id"
-
 
 [ar]
 languageName = "عربي"
