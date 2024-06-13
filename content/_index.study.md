@@ -2,7 +2,7 @@
 menu:
     main:
         name: rumah
-        weight: 2
+        weight: -100
         params:
             icon: home
 ---
