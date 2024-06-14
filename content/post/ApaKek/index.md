@@ -1,7 +1,6 @@
 ---
 title: "Kusuriya no Hitorigoto Opening Theme"
 description: Kusuriya no Hitorigoto OP
-(Hana ni Natte - EP) by Ryokuoushoku Shakai
 date: 2024-06-13T17:54:20Z
 image: cover.jpg
 math: 
