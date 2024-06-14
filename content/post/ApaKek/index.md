@@ -8,6 +8,7 @@ license: Shinku Inc.
 hidden: false
 comments: true
 categories: Anime
+- JPOP
 draft: false
 --- 
 ## Kusuriya no Hitorigoto Opening Theme <br>
