@@ -8,9 +8,9 @@ hidden: false
 comments: true
 categories: 
    - alya
-   - manga
    - raw
 tags:
+   - manga
    - school
    - commedy romance
 ---
@@ -30,4 +30,4 @@ tapi bagus.
 
 > Q: "mint kenapa gak post yang bahasa indonesia nya ?.<br>
 > A: "kalau sempet yaa.., tahun ini kyaknya hanya garap versi animenya saja
-> — <cite>klarifiksi mimin[^1]</cite>
+> — <cite>klarifiksi mimin[]</cite>
