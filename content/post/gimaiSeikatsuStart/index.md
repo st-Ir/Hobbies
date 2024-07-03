@@ -20,7 +20,7 @@ tags:
 anime gimai seikatsu hari ini tayang, dijadwalkan pada pukul 20:00 waktu jepang dan akan terdapat 3 episode langsung yang akan ditampilkan, letsgoo
 
 test stream, gua lagi bingung mau pakai apa streamnya kalau ada ide bisa di komen ya
-<iframe src="https://drive.google.com/file/d/11MmiXK2E4YY7Kd_BNEZ6jPv-YaHXvgdu/view?" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/11MmiXK2E4YY7Kd_BNEZ6jPv-YaHXvgdu/view?" allow="autoplay"></iframe>
 
 buat yang sub indo bisa download disini ya
 
