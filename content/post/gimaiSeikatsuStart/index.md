@@ -13,6 +13,7 @@ tags:
    - romance
    - School
    - anime
+   - drama
 ---
 
 ## Hobbysubs 
