@@ -9,8 +9,7 @@ categories: gisei
 tags: 
    - romance
    - School
-   - commedy
-   = drama
+   - drama commedy
 ---
 
 ni anime banyak kata-kata sulit nya yak beda dari anime romance lainnya
