@@ -26,8 +26,8 @@ kayak kenal,tanpa banyak basa basi langsung aja
 ## DOWNLOAD
 buat yang sub indo bisa download disini ya
 
-[1080](https://drive.google.com/file/d/1oBwOeesUT8nh8LDtiKDRm8c42L6HJtiQ/view?usp=drive_link)<br>
-[720](https://drive.google.com/file/d/1KyWDN38xkeA50CX8waCgWRQudBj8qsv-/view?usp=drive_link) <br>
+[1080 - (376mb)](https://drive.google.com/file/d/1oBwOeesUT8nh8LDtiKDRm8c42L6HJtiQ/view?usp=drive_link)<br>
+[720 - (206mb)](https://drive.google.com/file/d/1KyWDN38xkeA50CX8waCgWRQudBj8qsv-/view?usp=drive_link) <br>
 
 bener kataku alya pasti putih hehee
 Selamat menonton~

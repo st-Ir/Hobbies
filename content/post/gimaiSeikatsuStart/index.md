@@ -35,9 +35,8 @@ test stream, gua lagi bingung mau pakai apa streamnya kalau ada ide bisa di kome
 
 buat yang sub indo bisa download disini ya
 
-[1080](https://drive.google.com/file/d/10qErSVCTDUxpam4A4R2g5vfzmFSHKNzG/view?usp=drive_link)<br>
-[720](https://drive.google.com/file/d/1bBW2DCvUvTxbxoYup53rVHCiRcXUvAtU/view?usp=drive_link) <br>
-[480](https://drive.google.com/file/d/1QCtPOgMNSc-5zXaN0K6zDEonhX44HL5k/view?usp=drive_link) <br>
+[1080 - (750mb)](https://drive.google.com/file/d/10qErSVCTDUxpam4A4R2g5vfzmFSHKNzG/view?usp=drive_link)<br>
+[720 - (450mb)](https://drive.google.com/file/d/1bBW2DCvUvTxbxoYup53rVHCiRcXUvAtU/view?usp=drive_link) <br>
 
 #### kadokawa channel 
 
