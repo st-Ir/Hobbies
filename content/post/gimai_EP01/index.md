@@ -3,8 +3,6 @@ title: "Saki 01"
 description: 
 date: 2024-07-05T06:00:38Z
 image: 1.png
-math: 
-license: 
 hidden: false
 comments: true
 categories: gisei
