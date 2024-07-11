@@ -15,8 +15,6 @@ tags:
    - commedy
 ---
 
-## siapa tuh kira kira
-
 kudengar ending nya bakal beda-beda ya
 
 <div style="position: relative; padding-top: 56.25%; /* 16:9 aspect ratio */">
