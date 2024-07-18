@@ -1,7 +1,7 @@
 # Change baseurl before deploy
 baseurl = "https://st-ir.github.io/Hobbies/"
 languageCode = "en-us"
-paginate = 5
+paginate = 10
 title = "Hobbies"
 copyright = "derederesite"
 
