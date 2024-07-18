@@ -10,9 +10,7 @@ draft: false
 categories: 
    - Alya-san
 tags:
-   - romance
-   - School
-   - commedy
+
 ---
 
 kudengar ending nya bakal beda-beda ya
