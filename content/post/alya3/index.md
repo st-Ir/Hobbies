@@ -24,6 +24,6 @@ duh dedek imut cantik banget
 ## DOWNLOAD
 buat yang sub indo bisa download disini ya
 
-[1080 - (383mb)](https://drive.google.com/file/d/1d45lW1Va9tHuT8CDNto9xLpywshaHUoR/view?usp=drive_link)
+[1080 - (238mb)](https://drive.google.com/file/d/1d45lW1Va9tHuT8CDNto9xLpywshaHUoR/view?usp=drive_link)
 
 aku mau peluk alya juga
