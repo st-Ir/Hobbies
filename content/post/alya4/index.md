@@ -6,6 +6,12 @@ image: 1.png
 license: 
 hidden: false
 comments: true
+categories:
+   - alya-san
+tags: 
+   - romance
+   - School
+   - commedy
 ---
 
 alya yang tidak jujur aku suka juga

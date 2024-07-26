@@ -6,6 +6,11 @@ image: 1.png
 license: 
 hidden: false
 comments: true
+categories: gisei
+tags: 
+   - romance
+   - School
+   - drama commedy
 ---
 
 sial kenapa senyumnya saki gak dikasih tau
