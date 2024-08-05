@@ -14,7 +14,7 @@ tags:
    - drama commedy
 ---
 
-senyumnya bagaikan cahaya yang menerangi jalanku
+senyumnya bagaikan cahaya yang menerangi Jalanku
 
 {{< video src="Saki5.mkv" poster="2.png" controlslist="nodownload" >}}
 
