@@ -16,7 +16,7 @@ tags:
 
 senyumnya bagaikan cahaya yang menerangi jalanku
 
-{{< video src="/video/saki/Saki5.mkv" poster="/video/saki/2.png" controlsList="nodownload" >}}
+{{< video src="Saki5.mkv" poster="2.png" controlsList="nodownload" >}}
 
 
 
