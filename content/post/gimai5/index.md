@@ -16,9 +16,7 @@ tags:
 
 senyumnya bagaikan cahaya yang menerangi jalanku
 
-<div style="position: relative; padding-top: 56.25%; /* 16:9 aspect ratio */">
-    {{<video src="static/video/saki/saki5.mkv" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" autoplay="true" poster="2.png" frameborder="0" allowfullscreen>}}
-</div>
+{{<video src="video/saki/saki5.mkv" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" autoplay="true" poster="2.png" frameborder="0" allowfullscreen>}}
 
 
 Download disini -> [1080p - (239mb)](https://drive.google.com/file/d/1wgFyBiqAa0wgeNq3GZnzFgA0wJpFp7PN/view?usp=sharing)
