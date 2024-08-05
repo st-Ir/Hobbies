@@ -17,7 +17,7 @@ tags:
 senyumnya bagaikan cahaya yang menerangi jalanku
 
 <div style="position: relative; padding-top: 56.25%; /* 16:9 aspect ratio */">
-    <iframe src="static/video/saki/saki5.mkv" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allow="autoplay" frameborder="0" allowfullscreen></iframe>
+    <video src="static/video/saki/saki5.mkv" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" autoplay="true" poster="1.png" frameborder="0" allowfullscreen>
 </div>
 
 
