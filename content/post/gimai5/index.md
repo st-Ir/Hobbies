@@ -18,6 +18,4 @@ senyumnya bagaikan cahaya yang menerangi jalanku
 
 {{< video src="Saki5.mkv" poster="2.png" controlslist="nodownload" >}}
 
-
-
 Download -> [1080p - (239mb)](https://drive.google.com/file/d/1wgFyBiqAa0wgeNq3GZnzFgA0wJpFp7PN/view?usp=sharing)
