@@ -19,4 +19,4 @@ senyumnya bagaikan cahaya yang menerangi jalanku
 {{<video src="video/saki/Saki5.mkv" autoplay="true" poster="2.png" controlsList="nodownload" type="video/mp4">}}
 
 
-Download disini -> [1080p - (239mb)](https://drive.google.com/file/d/1wgFyBiqAa0wgeNq3GZnzFgA0wJpFp7PN/view?usp=sharing)
+Download -> [1080p - (239mb)](https://drive.google.com/file/d/1wgFyBiqAa0wgeNq3GZnzFgA0wJpFp7PN/view?usp=sharing)
